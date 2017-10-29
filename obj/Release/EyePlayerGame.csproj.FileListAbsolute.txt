@@ -1,0 +1,57 @@
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\Interop.WMPLib.dll
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame.csproj.ResolveComReference.cache
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\MainWindow.baml
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\MainWindow.g.cs
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\App.g.cs
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame_Content.g.cs
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame_MarkupCompile.cache
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame.g.resources
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\bin\Release\Tobii.EyeX.Client.dll
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\bin\Release\EyePlayerGame.exe.config
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\bin\Release\EyePlayerGame.exe
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\bin\Release\EyePlayerGame.pdb
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\bin\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\bin\Release\Tobii.EyeX.Client.Net20.xml
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame.Properties.Resources.resources
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame.csproj.GenerateResource.Cache
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame.exe
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame.pdb
+C:\Users\levi\Desktop\Eyeplayer 教學版 - 複製\EyePlayerTutorialWPF\EyePlayerTutorialWPF\obj\Release\EyePlayerGame_MarkupCompile.lref
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\bin\Release\EyePlayerGame.exe.config
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\Interop.WMPLib.dll
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.csproj.ResolveComReference.cache
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.exe
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.pdb
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\bin\Release\Tobii.EyeX.Client.dll
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\bin\Release\EyePlayerGame.exe
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\bin\Release\EyePlayerGame.pdb
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\bin\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\bin\Release\Tobii.EyeX.Client.Net20.xml
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.csprojResolveAssemblyReference.cache
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\MainWindow.g.cs
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\App.g.cs
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame_Content.g.cs
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame_MarkupCompile.cache
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame_MarkupCompile.lref
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\MainWindow.baml
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.g.resources
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.Properties.Resources.resources
+C:\Users\levi\Desktop\EyeplayerGame\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.csproj.GenerateResource.Cache
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\bin\Release\EyePlayerGame.exe.config
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.exe
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.pdb
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\MainWindow.g.cs
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\App.g.cs
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame_Content.g.cs
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame_MarkupCompile.cache
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame_MarkupCompile.lref
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\bin\Release\Tobii.EyeX.Client.dll
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\bin\Release\EyePlayerGame.exe
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\bin\Release\EyePlayerGame.pdb
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\bin\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\bin\Release\Tobii.EyeX.Client.Net20.xml
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\MainWindow.baml
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.g.resources
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.Properties.Resources.resources
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.csproj.GenerateResource.Cache
+C:\Users\levi\Desktop\SENSE\EyeplayerGame - 複製\EyeplayerGame\EyeplayerGame\obj\Release\EyePlayerGame.csprojResolveAssemblyReference.cache

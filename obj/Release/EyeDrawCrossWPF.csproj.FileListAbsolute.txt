@@ -1,0 +1,46 @@
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeDrawCrossWPF.exe.config
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\Tobii.EyeX.Client.dll
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeDrawCrossWPF.exe
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeDrawCrossWPF.pdb
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeXFramework.dll
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeXFramework.pdb
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeXFramework.xml
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\Tobii.EyeX.Client.Net20.xml
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\MainWindow.g.cs
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\App.g.cs
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF_Content.g.cs
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF_MarkupCompile.cache
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF_MarkupCompile.lref
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\MainWindow.baml
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.g.resources
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.Properties.Resources.resources
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.csproj.GenerateResource.Cache
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.exe
+C:\Users\levi\Documents\Visual Studio 2015\Projects\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.pdb
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeDrawCrossWPF.exe.config
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.exe
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.pdb
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\Tobii.EyeX.Client.dll
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\media\video2.mp4
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\media\video3.mp4
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\media\video4.mp4
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\media\video1.mp4
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeDrawCrossWPF.exe
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeDrawCrossWPF.pdb
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeXFramework.pdb
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\EyeXFramework.xml
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\bin\Release\Tobii.EyeX.Client.Net20.xml
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.csprojResolveAssemblyReference.cache
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\MainWindow.baml
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\MainWindow.g.cs
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\App.g.cs
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF_Content.g.cs
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF_MarkupCompile.cache
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF_MarkupCompile.lref
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\App.baml
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.g.resources
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.Properties.Resources.resources
+C:\Users\育新\Desktop\實習\EyeDrawCrossWPF\EyeDrawCrossWPF\obj\Release\EyeDrawCrossWPF.csproj.GenerateResource.Cache

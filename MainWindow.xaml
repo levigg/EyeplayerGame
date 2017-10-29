@@ -1,0 +1,274 @@
+﻿<Window x:Class="EyePlayerGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EyePlayerGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920"
+        WindowState="Maximized"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        KeyDown="KeyFunctions"
+        Topmost="True"
+        >
+    <Window.Resources>
+        <Storyboard x:Key="expandStoryboard">
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.ScaleX" 
+        To="0.9" Duration="0:0:0.2" />
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.ScaleY" 
+        To="0.9" Duration="0:0:0.2" />
+        </Storyboard>
+        <!-- This storyboard will make the image revert to its original size -->
+        <Storyboard x:Key="shrinkStoryboard">
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.ScaleX" 
+        To="1" Duration="0:0:0.2" />
+            <DoubleAnimation Storyboard.TargetProperty="RenderTransform.ScaleY" 
+        To="1" Duration="0:0:0.2" />
+        </Storyboard>
+    </Window.Resources>
+    
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.48*" />
+            <RowDefinition Height="4*" />
+            <RowDefinition Height="0.4*" />
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0"  Background="darkturquoise">
+            <Label Content="EyePlayer Games" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="35" FontFamily="Segoe UI Emoji"/>
+        </Border>
+        <Border Grid.Row="2"  Background="darkturquoise">
+            <Label Content="" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" FontSize="20"/>
+        </Border>
+
+        <Border Name="avoidClick" Grid.Row="1"  Background="Transparent"/>
+        <Grid Name="GameList" Grid.Row="1" Background="DeepPink">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+
+
+
+            <Image Source="media/01.png" Grid.Column="0" Grid.Row="0" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image01_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/02.png" Grid.Column="1" Grid.Row="0" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image02_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/03.png" Grid.Column="2" Grid.Row="0" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image03_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/04.png" Grid.Column="3" Grid.Row="0" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image04_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/05.png" Grid.Column="0" Grid.Row="1" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image05_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/14.jpg" Grid.Column="1" Grid.Row="1" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image06_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/07.png" Grid.Column="2" Grid.Row="1" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image07_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/08.png" Grid.Column="3" Grid.Row="1" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image08_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/09.png" Grid.Column="0" Grid.Row="2" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image09_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/10.png" Grid.Column="1" Grid.Row="2" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image10_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/11.png" Grid.Column="2" Grid.Row="2" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image11_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/12.png" Grid.Column="3" Grid.Row="2" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image12_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/13.png" Grid.Column="0" Grid.Row="3" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image13_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/06.png" Grid.Column="1" Grid.Row="3" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image14_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/15.png" Grid.Column="2" Grid.Row="3" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image15_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+            <Image Source="media/16.png" Grid.Column="3" Grid.Row="3" Stretch="Fill" Cursor="Hand" RenderTransformOrigin="0.5,0.5" MouseLeftButtonUp="Image16_MouseLeftButtonUp">
+                <Image.Triggers>
+                    <EventTrigger RoutedEvent="Image.MouseEnter">
+                        <BeginStoryboard Storyboard="{StaticResource expandStoryboard}" />
+                    </EventTrigger>
+                    <EventTrigger RoutedEvent="Image.MouseLeave">
+                        <BeginStoryboard Storyboard="{StaticResource shrinkStoryboard}" />
+                    </EventTrigger>
+                </Image.Triggers>
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="1" ScaleY="1"/>
+                </Image.RenderTransform>
+            </Image>
+        </Grid>
+    </Grid>
+</Window>
